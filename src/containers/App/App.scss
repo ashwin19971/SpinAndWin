@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "Metropolis";
+  src: url("../../font/Metropolis-Light.otf") format("truetype");
+}
+
+body {
+  margin: 0 auto;
+  font-family: Metropolis;
+  max-width: 1440px;
+  background-color: #f2f5fa;
+}
+
+p {
+  margin: 0px;
+}
