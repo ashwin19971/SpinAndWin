@@ -1,0 +1,36 @@
+
+.spin-wheel-message-wrapper {
+  border-radius: 12px;
+  background: #FFFFFF;
+  text-align: center;
+  padding: 14px 0px 20px;
+  .spin-title {
+    max-width: 215px;
+    margin: 6px auto;
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: 600;
+    margin-bottom: 6px;
+  }
+  .spin-description {
+    max-width: 267px;
+    font-size: 12px;
+    line-height: 18px;
+    margin: 0 auto;
+    color: rgba(0, 0, 0, 0.58);
+  }
+}
+
+.get-help-wrapper {
+  font-size: 14px;
+  line-height: 14px;
+  color: #000000;
+  font-weight: 600;
+  margin: 15px auto;
+  width: 185px;
+  a {
+    color: #FFDDA1;
+    cursor: pointer;
+  }
+}
+  

@@ -1,13 +1,23 @@
 @font-face {
-  font-family: "Metropolis";
+  font-family: "Metropolis Regular";
+  src: url("../../font/Metropolis-Regular.otf") format("truetype");
+}
+
+@font-face {
+  font-family: "Metropolis Light";
   src: url("../../font/Metropolis-Light.otf") format("truetype");
+}
+
+@font-face {
+  font-family: "Metropolis Black";
+  src: url("../../font/Metropolis-Black.otf") format("truetype");
 }
 
 body {
   margin: 0 auto;
-  font-family: Metropolis;
+  font-family: Metropolis Regular;
   max-width: 1440px;
-  background-color: #f2f5fa;
+  background-color: #E5E5E5;
 }
 
 p {

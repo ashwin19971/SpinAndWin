@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/spin-and-win/static/css/main.20510cd1.chunk.css",
+    "main.js": "/spin-and-win/static/js/main.2d231285.chunk.js",
+    "main.js.map": "/spin-and-win/static/js/main.2d231285.chunk.js.map",
+    "runtime-main.js": "/spin-and-win/static/js/runtime-main.36fe9656.js",
+    "runtime-main.js.map": "/spin-and-win/static/js/runtime-main.36fe9656.js.map",
+    "static/js/2.be7c03a1.chunk.js": "/spin-and-win/static/js/2.be7c03a1.chunk.js",
+    "static/js/2.be7c03a1.chunk.js.map": "/spin-and-win/static/js/2.be7c03a1.chunk.js.map",
+    "index.html": "/spin-and-win/index.html",
+    "precache-manifest.b4da553f8ff9b33cbd352fdafbf0e625.js": "/spin-and-win/precache-manifest.b4da553f8ff9b33cbd352fdafbf0e625.js",
+    "service-worker.js": "/spin-and-win/service-worker.js",
+    "static/css/main.20510cd1.chunk.css.map": "/spin-and-win/static/css/main.20510cd1.chunk.css.map",
+    "static/js/2.be7c03a1.chunk.js.LICENSE.txt": "/spin-and-win/static/js/2.be7c03a1.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/spin-and-win/static/media/Metropolis-Light.c82170e0.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36fe9656.js",
+    "static/js/2.be7c03a1.chunk.js",
+    "static/css/main.20510cd1.chunk.css",
+    "static/js/main.2d231285.chunk.js"
+  ]
+}

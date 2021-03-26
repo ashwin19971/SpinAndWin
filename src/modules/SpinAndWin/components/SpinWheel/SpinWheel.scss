@@ -1,0 +1,209 @@
+.wheel-wrapper {
+  position: relative;
+  li:nth-child(1) {
+    transform: rotate(0deg) skewY(-45deg);
+    .text {
+      background-color: #832A4B;
+      p {
+        position: absolute;
+        left: 96px;
+        transform: rotate(-100deg);
+        top: 40px;
+        font-size: 12px;
+        line-height: 13px;
+        font-weight: 500;
+      }
+    }
+  } 
+  
+  li:nth-child(2) {
+    transform: rotate(45deg) skewY(-45deg);
+   .text {
+      background-color:#742543;
+      p {
+        position: absolute;
+        left: 110px;
+        transform: rotate(-100deg);
+        top: 45px;
+        font-size: 11px;
+        font-weight: 500;
+        line-height: 11px;
+      }
+    }
+  }
+  li:nth-child(3) {
+    transform: rotate(90deg) skewY(-45deg);
+    .text {
+      background-color: #551B31;
+      p {
+        position: absolute;
+        left: 102px;
+        transform: rotate(-110deg);
+        top: 35px;
+        font-weight: 600;
+        font-size: 11px;
+        line-height: 13px;
+      }
+    }
+  }
+  li:nth-child(4) {
+    transform: rotate(135deg) skewY(-45deg);
+    .text {
+      background-color: #65203A;
+      p {
+        position: absolute;
+        left: 110px;
+        transform: rotate(-95deg);
+        top: 45px;
+        font-size: 13px;
+        line-height: 13px;
+        font-weight: 600;
+      }
+    }
+  }
+  li:nth-child(5) { 
+    transform: rotate(180deg) skewY(-45deg);
+    .text {
+      background-color: #832A4B;
+      p {
+        position: absolute;
+        left: 110px;
+        transform: rotate(-95deg);
+        top: 50px;
+        font-size: 13px;
+        font-weight: 600;
+        line-height: 13px;
+      }
+    }
+  }
+  li:nth-child(6) {
+    transform: rotate(225deg) skewY(-45deg);
+    .text {
+      background-color: #742543;
+      p {
+        position: absolute;
+        left: 110px;
+        transform: rotate(-95deg);
+        top: 40px;
+        font-size: 11px;
+        line-height: 11px;
+        font-weight: 500;
+      }
+    }
+  }
+  li:nth-child(7) {
+    transform: rotate(270deg) skewY(-45deg);
+    .text {
+      background-color: #551B31;
+      p {
+        position: absolute;
+        left: 105px;
+        transform: rotate(-90deg);
+        top: 33px;
+        font-size: 11px;
+        line-height: 13px;
+        font-weight: 500;
+      }
+    }
+  }
+  li:nth-child(8) {
+    transform: rotate(315deg) skewY(-45deg);
+    .text {
+      background-color: #65203A;
+      p {
+        position: absolute;
+        left: 108px;
+        transform: rotate(-95deg);
+        top: 35px;
+        font-weight: 600;
+        font-size: 13px;
+        line-height: 13px;
+      }
+    }
+  }
+  
+  .circle {
+    width: 270px;
+    height: 270px;
+    position: relative;
+    padding: 0;
+    margin: 16px auto 10px;
+    background: rgba(0, 0, 0, 0.06);
+    box-shadow: 0px 3.16862px 6.33724px rgba(0, 0, 0, 0.12);
+    border-radius: 50%;
+    list-style: none;
+    overflow: hidden;
+  }
+  
+  li {
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 50%;
+    height: 50%;
+    transform-origin: 0% 100%;
+    box-shadow: 0px 3.74199px 3.74199px rgba(0, 0, 0, 0.25);
+  }
+  
+  .text {
+    position: absolute;
+    left: -100%;
+    width: 200%;
+    height: 200%;
+    text-align: center;
+    display: block;
+    transform: skewY(45deg) rotate(22.5deg);
+    padding-top: 20px;
+    color: white;
+    cursor: pointer;
+    p {
+      color: rgba(255, 255, 255, 0.87);
+    }
+  }
+
+  .wheel-center {
+    width: 66px;
+    border-radius: 50%;
+    position: absolute;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.87);
+    box-shadow: 0px 3.74199px 3.74199px rgba(89, 57, 0, 0.25);
+    padding-top: 22px;
+    padding-bottom: 22px;
+    background-color: #FFDDA1;
+    top: 38%;
+    left: 39%;
+  }
+
+  .tip {
+    position: absolute;
+    left: 130px;
+    z-index: 1;
+    top: -14px;
+    img:first-of-type {
+      display: block;
+    }
+    img:last-of-type {
+      position: absolute;
+      left: 6px;
+      top: 0px;
+    }
+  }
+
+  .left-circle {
+    left: 95px;
+    top: 15px;
+    position: absolute;
+    z-index: 1;
+  }
+
+  .right-circle {
+    position: absolute;
+    right: 100px;
+    top: 15px;
+  }
+}

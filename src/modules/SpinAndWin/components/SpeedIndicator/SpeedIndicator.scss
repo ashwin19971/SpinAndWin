@@ -1,0 +1,10 @@
+.speed-indicator-wrapper {
+  text-align: center;
+  margin-bottom: 26px;
+  position: relative;
+  img:last-of-type {
+    position: absolute;
+    left: 135px;
+    top: 13px;
+  }
+}
