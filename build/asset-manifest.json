@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/spin-and-win/static/css/main.20510cd1.chunk.css",
-    "main.js": "/spin-and-win/static/js/main.2d231285.chunk.js",
-    "main.js.map": "/spin-and-win/static/js/main.2d231285.chunk.js.map",
+    "main.css": "/spin-and-win/static/css/main.b711dcad.chunk.css",
+    "main.js": "/spin-and-win/static/js/main.1cb468c3.chunk.js",
+    "main.js.map": "/spin-and-win/static/js/main.1cb468c3.chunk.js.map",
     "runtime-main.js": "/spin-and-win/static/js/runtime-main.36fe9656.js",
     "runtime-main.js.map": "/spin-and-win/static/js/runtime-main.36fe9656.js.map",
-    "static/js/2.be7c03a1.chunk.js": "/spin-and-win/static/js/2.be7c03a1.chunk.js",
-    "static/js/2.be7c03a1.chunk.js.map": "/spin-and-win/static/js/2.be7c03a1.chunk.js.map",
+    "static/js/2.38da9016.chunk.js": "/spin-and-win/static/js/2.38da9016.chunk.js",
+    "static/js/2.38da9016.chunk.js.map": "/spin-and-win/static/js/2.38da9016.chunk.js.map",
     "index.html": "/spin-and-win/index.html",
-    "precache-manifest.b4da553f8ff9b33cbd352fdafbf0e625.js": "/spin-and-win/precache-manifest.b4da553f8ff9b33cbd352fdafbf0e625.js",
+    "precache-manifest.3599a53503aa752d44492017c768aa01.js": "/spin-and-win/precache-manifest.3599a53503aa752d44492017c768aa01.js",
     "service-worker.js": "/spin-and-win/service-worker.js",
-    "static/css/main.20510cd1.chunk.css.map": "/spin-and-win/static/css/main.20510cd1.chunk.css.map",
-    "static/js/2.be7c03a1.chunk.js.LICENSE.txt": "/spin-and-win/static/js/2.be7c03a1.chunk.js.LICENSE.txt",
-    "static/media/App.scss": "/spin-and-win/static/media/Metropolis-Light.c82170e0.otf"
+    "static/css/main.b711dcad.chunk.css.map": "/spin-and-win/static/css/main.b711dcad.chunk.css.map",
+    "static/js/2.38da9016.chunk.js.LICENSE.txt": "/spin-and-win/static/js/2.38da9016.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/spin-and-win/static/media/Metropolis-Regular.f7b5e589.otf",
+    "static/media/left_arrow.svg": "/spin-and-win/static/media/left_arrow.cfa10301.svg",
+    "static/media/speed_arrow.svg": "/spin-and-win/static/media/speed_arrow.577b9dcb.svg",
+    "static/media/speed_mark.svg": "/spin-and-win/static/media/speed_mark.03882719.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.36fe9656.js",
-    "static/js/2.be7c03a1.chunk.js",
-    "static/css/main.20510cd1.chunk.css",
-    "static/js/main.2d231285.chunk.js"
+    "static/js/2.38da9016.chunk.js",
+    "static/css/main.b711dcad.chunk.css",
+    "static/js/main.1cb468c3.chunk.js"
   ]
 }
