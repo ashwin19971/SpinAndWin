@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d8f2cba336afc5ab63bdfb71f5686a82",
+    "revision": "3e91f3671468633570568bca308fb69f",
     "url": "/spin-and-win/index.html"
   },
   {
-    "revision": "50ecf4e728ae31e36d02",
-    "url": "/spin-and-win/static/css/main.b711dcad.chunk.css"
+    "revision": "c467215ba11d090eafb0",
+    "url": "/spin-and-win/static/css/main.84c0921f.chunk.css"
   },
   {
-    "revision": "53c90061a444c32a952b",
-    "url": "/spin-and-win/static/js/2.38da9016.chunk.js"
+    "revision": "46f1b1b6a1657324808d",
+    "url": "/spin-and-win/static/js/2.641cb48f.chunk.js"
   },
   {
     "revision": "9b318b6fb13190fe82c0677e9264b3c7",
-    "url": "/spin-and-win/static/js/2.38da9016.chunk.js.LICENSE.txt"
+    "url": "/spin-and-win/static/js/2.641cb48f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "50ecf4e728ae31e36d02",
-    "url": "/spin-and-win/static/js/main.1cb468c3.chunk.js"
+    "revision": "c467215ba11d090eafb0",
+    "url": "/spin-and-win/static/js/main.f2f693bf.chunk.js"
   },
   {
     "revision": "097f2d8685aaa489d4a1",
